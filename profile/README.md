@@ -1,6 +1,8 @@
 # Welcome to StarGuild
 
-![StarGuild](https://starguildapp.com/assets/logo.png)
+<div align="center">
+  <img src="https://i.imgur.com/neZO1Re.png" alt="StarGuild" width="300" />
+</div><br/>
 
 Welcome to the official GitHub Organization for **StarGuild**, the ultimate community and organization management platform for Star Citizen and beyond. Here you’ll find everything you need to learn more about our platform, connect with the community, and explore development projects.
 
